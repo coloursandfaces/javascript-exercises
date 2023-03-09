@@ -10,6 +10,7 @@ const convertToFahrenheit = function(celsius) {
   return farenheitRounded;
 };
 
+
 // Do not edit below this line
 module.exports = {
   convertToCelsius,
